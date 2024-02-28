@@ -3,8 +3,8 @@ import {
   ResizablePanel,
   ResizablePanelGroup,
 } from "../src/components/ui/resizeable";
+import { Sidebar } from "./components/nav";
 import { ModeToggle } from "./components/ui/dark-mode";
-import { Sidebar } from "./components/ui/nav";
 import "./output.css";
 
 function App() {

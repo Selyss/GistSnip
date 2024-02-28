@@ -1,5 +1,5 @@
-import { cn } from "../../lib/utils";
-import { Button } from "./button";
+import { cn } from "../lib/utils";
+import { Button } from "./ui/button";
 
 export function Sidebar({}) {
   return (
